@@ -5,3 +5,5 @@ logo: docs/vanGogh_StarryNight_wikipedia.jpg
 
 html:
   home_page_in_navbar: false
+
+bibtex_bibfiles: ../../literature/MachineLearning.bib
