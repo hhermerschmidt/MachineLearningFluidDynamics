@@ -1,0 +1,16 @@
+image: python:3.9
+
+before_script:
+  - python -V
+
+pages:
+  only:
+    changes:
+      - literatureReview/LiteratureReview/**/*
+  script:
+   - pip install -r literatureReview/requirements.txt
+   - jb build literatureReview/LiteratureReview
+   - mv literatureReview/LiteratureReview/_build/html/ public/
+  artifacts:
+    paths:
+      - public
