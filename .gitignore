@@ -1,3 +1,6 @@
+venv/
+_build/
+
 /literature/*
 !/literature/*.bib
 

@@ -1,0 +1,7 @@
+title: 'Machine Learning and Fluid Dynamics'
+author: Henning Hermerschmidt
+copyright: "2021"
+logo: docs/vanGogh_StarryNight_wikipedia.jpg
+
+html:
+  home_page_in_navbar: false

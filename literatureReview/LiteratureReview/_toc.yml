@@ -1,0 +1,7 @@
+- file: docs/Intro
+  numbered: false
+
+- file: docs/FluidDynamics
+- file: docs/MachineLearning
+- file: docs/MLAppliedToFluidDynamics
+- file: docs/Bibliography
