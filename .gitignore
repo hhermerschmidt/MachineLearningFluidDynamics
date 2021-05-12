@@ -1,0 +1,5 @@
+/literature/*
+!/literature/*.bib
+
+/research/litrev_latex/*
+/!research/litrev_latex/*.tex
